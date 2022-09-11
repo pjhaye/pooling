@@ -1,5 +1,4 @@
 ﻿using System;
-using Rewired.Interfaces;
 using UnityEngine;
 
 namespace Pooling
