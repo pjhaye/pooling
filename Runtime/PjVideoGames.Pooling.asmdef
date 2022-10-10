@@ -1,10 +1,10 @@
 {
-    "name": "pjvideogames.pooling.runtime",
+    "name": "PjVideoGames.Pooling",
     "rootNamespace": "Pooling",
     "references": [
         "Unity.Addressables",
         "Unity.ResourceManager",
-        "pjvideogames.servicelocator.runtime"
+        "PjVIdeoGames.ServiceLocator"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

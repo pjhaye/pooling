@@ -1,6 +1,6 @@
 {
   "name": "com.pjvideogames.pooling",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Pooling",
   "description": "Implementation of GameObject pooling",
   "unity": "2021.1",
@@ -12,7 +12,6 @@
     "name": "PJ Haye",
     "email": "pj.haye@gmail.com"
   },
-  "type": "module",
   "dependencies": {
     "com.unity.addressables": "1.19.19",
     "com.pjvideogames.servicelocator": "0.0.1"
